@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgb(154, 199, 239);
+    font-family: 'Brush Script MT', cursive;
+}
+h1{
+text-align: center;
+}
+.skz{
+   width:330px;
+   height:480px;
+}
+p{
+    margin:0cm
+}
+.skzoo{
+  width:160px;
+   height:160px;  
+}
+.foto{
+   margin:0cm
+}
